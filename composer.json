@@ -34,11 +34,6 @@
             "name": "hellobin",
             "email": "zhangbin1126@126.com",
             "role": "Developer"
-        },
-        {
-            "name": "hellobin",
-            "email": "zhangbin1126@gmail.com",
-            "role": "Developer"
         }
     ]
 }
