@@ -3,7 +3,13 @@
     "description": "基于 Symfony HttpClient 的 HTTP 客户端，完全兼容 yzh52521/easyhttp 门面 API（高版本 PHP 替代方案）",
     "type": "library",
     "license": "MIT",
-    "keywords": ["http", "client", "symfony", "easyhttp", "webman"],
+    "keywords": [
+        "http",
+        "client",
+        "symfony",
+        "easyhttp",
+        "webman"
+    ],
     "require": {
         "php": ">=8.2",
         "symfony/http-client": "^7.1|^8.0",
@@ -22,5 +28,17 @@
     "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^11"
-    }
+    },
+    "authors": [
+        {
+            "name": "hellobin",
+            "email": "zhangbin1126@126.com",
+            "role": "Developer"
+        },
+        {
+            "name": "hellobin",
+            "email": "zhangbin1126@gmail.com",
+            "role": "Developer"
+        }
+    ]
 }
